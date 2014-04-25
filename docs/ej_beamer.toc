@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Resumen}{6}{0}{1}
+\beamer@sectionintoc {2}{Segunda Secci\IeC {\'o}n}{7}{0}{2}
+\beamer@sectionintoc {3}{C\IeC {\'a}lculo de pi}{10}{0}{3}
+\beamer@sectionintoc {4}{Bibliograf\IeC {\'\i }a}{11}{0}{4}
